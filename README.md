@@ -16,7 +16,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 | URL                       | Status | History                                                                             | Response Time                                                              | Uptime                                                                                                                                                                                                         |
 | ------------------------- | ------ | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Nafis](https://nafis.co) | 🟩 Up  | [nafis.yml](https://github.com/nfuad/uptime-check/commits/master/history/nafis.yml) | <img alt="Response time graph" src="./graphs/nafis.png" height="20"> 128ms | [![Uptime 100.00%%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnfuad%2Fuptime-check%2Fmaster%2Fapi%2Fnafis%2Fuptime.json)](https://upptime.github.io/upptime/history/nafis) |
+| [Nafis](https://nafis.co) | 🟩 Up  | [nafis.yml](https://github.com/nfuad/uptime-check/commits/master/history/nafis.yml) | <img alt="Response time graph" src="./graphs/nafis.png" height="20"> 132ms | [![Uptime 100.00%%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fnfuad%2Fuptime-check%2Fmaster%2Fapi%2Fnafis%2Fuptime.json)](https://upptime.github.io/upptime/history/nafis) |
 
 <!--end: status pages-->
 
