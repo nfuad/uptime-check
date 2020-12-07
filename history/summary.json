@@ -2,6 +2,7 @@
   {
     "name": "Nafis",
     "url": "https://nafis.co",
+    "icon": "https://favicons.githubusercontent.com/nafis.co",
     "slug": "nafis",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 116,
-    "timeWeek": 154,
-    "timeMonth": 144,
-    "timeYear": 144
+    "time": 150,
+    "timeDay": 240,
+    "timeWeek": 181,
+    "timeMonth": 150,
+    "timeYear": 150,
+    "dailyMinutesDown": {}
   }
 ]
